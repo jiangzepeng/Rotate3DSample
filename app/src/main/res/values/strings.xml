@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rotate3DSample</string>
+    <string name="enter_login_account">输入手机号码/邮箱/用户名</string>
+    <string name="enter_login_password">请输入登录密码</string>
+    <string name="enput_phone">请输入手机号码</string>
+    <string name="enter_login_code">请输入验证码</string>
+    <string name="login">登录</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="register_immediately">立即注册</string>
+    <string name="login_third_party_prompt">第三方登录</string>
+</resources>
