@@ -1,5 +1,5 @@
 # Rotate3D
-a 3D ratate library 
+This is a 3D ratate library ,You can easy use it
 
 # Preview
 
@@ -27,6 +27,7 @@ In your build.gradle:
 
 # Usage
   create Rotate3D 
+  
        anim = new Rotate3D.Builder(this)
                 .setParentView(parent_ll)
                 .setPositiveView(account_login_ll)
