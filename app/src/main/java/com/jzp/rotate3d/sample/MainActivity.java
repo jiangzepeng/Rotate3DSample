@@ -26,9 +26,9 @@ public class MainActivity extends AppCompatActivity {
         no_pass_login = (TextView) findViewById(R.id.no_pass_login);
 
         anim = new Rotate3D.Builder(this)
-                .setParentView(parent_ll)
-                .setPositiveView(account_login_ll)
-                .setNegativeView(account_phone_ll)
+                .bindParentView(parent_ll)
+                .bindPositiveView(account_login_ll)
+                .bindNegativeView(account_phone_ll)
                 .create();
 
         no_pass_login.setOnClickListener(new View.OnClickListener() {

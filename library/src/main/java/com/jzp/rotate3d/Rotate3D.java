@@ -162,17 +162,17 @@ public class Rotate3D {
             return this;
         }
 
-        public Builder setParentView(View parentView) {
+        public Builder bindParentView(View parentView) {
             this.parentView = parentView;
             return this;
         }
 
-        public Builder setPositiveView(View positiveView) {
+        public Builder bindPositiveView(View positiveView) {
             this.positiveView = positiveView;
             return this;
         }
 
-        public Builder setNegativeView(View negativeView) {
+        public Builder bindNegativeView(View negativeView) {
             this.negativeView = negativeView;
             return this;
         }
