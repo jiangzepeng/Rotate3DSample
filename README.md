@@ -28,11 +28,11 @@ In your build.gradle:
 # Usage
   create Rotate3D 
   
-       Rotate3D anim = new Rotate3D.Builder(this)
-                .bindParentView(parent_ll)
-                .bindPositiveView(account_login_ll)
-                .bindNegativeView(account_phone_ll)
-                .create();
+       Rotate3D  anim = new Rotate3D.Builder(this)
+            .bindParentView(parent_ll)
+            .bindPositiveView(account_login_ll)
+            .bindNegativeView(account_phone_ll)
+            .create();
                                 
   start the 3D animation 
    
