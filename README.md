@@ -28,7 +28,7 @@ In your build.gradle:
 # Usage
   create Rotate3D 
   
-       anim = new Rotate3D.Builder(this)
+       Rotate3D anim = new Rotate3D.Builder(this)
                 .setParentView(parent_ll)
                 .setPositiveView(account_login_ll)
                 .setNegativeView(account_phone_ll)
