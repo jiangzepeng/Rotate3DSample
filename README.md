@@ -41,7 +41,7 @@ In your build.gradle:
  
  # License
  
-    Copyright 2017, Rotate3D
+    Copyright 2017, Rotate3D , 1179537855@qq.com
  
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
