@@ -37,7 +37,8 @@ In your build.gradle:
   start the 3D animation 
    
        anim.transform();
-        
+  # Follow Me
+![](http://upload-images.jianshu.io/upload_images/1750086-58e561db5db3a196.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)      
  
  # License
  
